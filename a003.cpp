@@ -8,12 +8,10 @@ int main()
     if (S==0) {
         cout << "´¶³q";
     }
-    else if (S==1)
-    {
+    else if (S==1){
         cout << "¦N";
     }
-    else
-    {
+    else{
         cout << "¤j¦N";
     }
 }
